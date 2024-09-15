@@ -33,7 +33,5 @@ for(i=0;i<m;i++)
     System.out.print(res[i][j]+"\t");
     System.out.println();
 }
-}
-
-    
+}    
 }
